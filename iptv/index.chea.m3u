@@ -15,7 +15,7 @@ https://stream.pdtvhd.com/Sports/streams/1001TVSports.m3u8
 https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-id="UNNEWS"tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អង្គការសហប្រជាជាតិ
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="RFA.kh"tvg-logo="https://static.themebuilder.aws.arc.pub/radiofreeasia/1697743571639.png" group-title="ប៉ុស្តិ៍ខ្មែរ",វិទ្យុអាស៊ីសេរី | RFA
+#EXTINF:-1 tvg-id="RFA.kh"tvg-logo="https://imgur.com/a/ICRT1Ra" group-title="ប៉ុស្តិ៍ខ្មែរ",វិទ្យុអាស៊ីសេរី | RFA
 https://livestreams.rfa.org/RFA-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/m2cVfK7h/Mo-INFO.png" group-title="ប៉ុស្តិ៍ខ្មែរ",MoINFO
 https://ip.pdtvhd.com/Sports/streams/moinfotv.m3u8
